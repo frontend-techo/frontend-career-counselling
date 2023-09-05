@@ -26,16 +26,6 @@ Do's and Dont's I followed which made me a good Frontend Engineer.
 [3] Discussion - Don’t just start coding. Discuss what & how you’re thinking to approach or code this.
 
 
-
-3 things to know about DSA in FrontEnd Interviews 🔥
-
-[1] It’s a Problem solving round not a DSA round where you expect direct Knapsack, Djikstra, Prim’s Algorithms.
-
-[2] No direct LeetCode problems but you’ll be asked Implementation based Quesstions like Polyfills, Flatten Array, Debounce, ‘N’ async tasks in series.
-
-[3] Important basic DS concepts to know - Recursion, Trees, Graphs, DFS & BFS Traversals.
-
-
 3 Important concepts where you’ll go wrong in FrontEnd Interviews 🔥
 
 Fundamentally, If you understand the differences between these concepts, your good to go.
