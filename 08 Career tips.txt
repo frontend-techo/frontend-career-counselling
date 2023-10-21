@@ -1174,5 +1174,53 @@ Get placed in google, amazon, ola, flipkart etc which offer high salary even for
 Work in a startup, work your ass off for 2–3 years. Gain a lot of knowledge and become extremely well sought after. Make jumps to other product companies and make good money.
 If you chose MNCs like HCL, IBM, TCS, Infy I’m sorry. You will see this much salary very late in your career, if ever. Simply because the work here is mediocre which anyone can do. They would rather train a fresher to do that work than pay high amounts to experienced guys. Whereas in product company, knowledge is valued
 
+Tip 47
+============================================================================================================
+
+There are three people in any Web Development team:
+
+Front End Developer - Let's call him John
+Back End Developer - Let's call him Dave
+Web Designer - Let's call him Leo
+John codes what you see on your screen when you visit a website.
+
+This includes the buttons, text fields, forms and animations.
+
+John doesn't design the website.
+
+He doesn't choose the colors and the layout to use.
+
+Leo does.
+
+Leo creates a design for pages in an image format, and then John converts that image into live a page with code.
+
+Dave's code handles all the data that is required by the application.
+
+If John, Dave and Leo create a registration page for their website, here's what the process will look like:
+
+Leo creates a design with a tool like Adobe Photoshop or Adobe InDesign.
+
+This design is currently in Image format and is non-interactive. You cannot click any of the buttons or interact with the forms.
+
+Leo, the Web Designer, sends this image file to the Front End Developer, John.
+
+Now, John writes code that builds a real page that looks just like the one in the image.
+
+At this stage, the page has a form that can be submitted, but if a user tries to submit the form, the data goes nowhere.
+
+This is where Dave, the Back-End Developer, comes in. He writes some magical code that handles all the data that comes from the user when she submits the form.
+
+Dave's code validates the data for errors like invalid email, empty password field, etc.
+
+If Dave's code finds no validation errors in the data, the data is stored in the database.
+
+Now, the user is able to login to the website.
+
+The same process is followed for every page of a website.
+
+I hope this answer helped. Let me know if you have any questions.
+
+
+
 
 
